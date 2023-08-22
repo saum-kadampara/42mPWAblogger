@@ -1,0 +1,23 @@
+   {
+    "name": "42m",
+    "short_name": "42m",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd15Vo4Vee6Aaf2T89gw_tuSKAftM9YJWEfuv_E8d2THH19qe0wbNjzRpXPXDmyc-5FI7fEeMccQADiyDwROmk1Iym0nHj-oKS-9eamPbVQuJXUuAiMpcX7JYLbAsiZbuIsQ-oo0o970LZDQo6vPkUzIzhevQmp9Xvn_vMNTCSkSmigOaUTliAkeiLTS6H/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJIBbIVPR4f1sXzgMfh6_zvnqlGXpiaHgULsFV_q2S8KRNib20aEL7mN4dgbJBDrLSdWLQ2UX_egecywLoIVYG_24Z1Qls_l6iSXaiVHzPvXiPyfDX0rPaOk9W6nYcUJP_v3m3afg1nZ_2YAz9ZxlhEQqbux0eNCcg3bvtgHpza_R3kn7Z-Mh1RyfTi29/s512/android-chrome-512x512.png ",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.42m.in"
+}
